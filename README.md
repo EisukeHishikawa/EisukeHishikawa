@@ -32,6 +32,6 @@ Java / OracleDB を中心としたバックエンド開発を担当しつつ、�
 ### 📌 Featured Project
 
 **[adapt-sheet](https://github.com/EisukeHishikawa/adapt-sheet)**
-AI帳票作成という題材を通じて、CI/CD・AWS・Supabase・生成AI・AI駆動開発(Claude Codeとの協働)の技術キャッチアップを目的に作られている。
+AI帳票作成という題材を通じて、CI/CD・AWS・Supabase・生成AI・AI駆動開発(Claude Codeとの協働)の技術キャッチアップを目的に作りました。
 React/TypeScript/Vite + Python/FastAPI、Terraform/AWS(Lambda, API Gateway, CloudFront, S3)、Supabase、GitHub Actions(OIDC)によるフルスタック個人開発。生成AIの長時間処理に対応した非同期処理設計が特徴です。
 デプロイ: https://d3lal8vccjsy5y.cloudfront.net/
