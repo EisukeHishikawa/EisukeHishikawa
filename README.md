@@ -32,5 +32,6 @@ Java / OracleDB を中心としたバックエンド開発を担当しつつ、�
 ### 📌 Featured Project
 
 **[adapt-sheet](https://github.com/EisukeHishikawa/adapt-sheet)**
+CI/CDと生成AI駆動開発の学習を目的に制作した個人開発プロジェクトです。
 React/TypeScript/Vite + Python/FastAPI、Terraform/AWS(Lambda, API Gateway, CloudFront, S3)、Supabase、GitHub Actions(OIDC)によるフルスタック個人開発。生成AIの長時間処理に対応した非同期処理設計が特徴です。
 デプロイ: https://d3lal8vccjsy5y.cloudfront.net/
