@@ -3,7 +3,7 @@
 現在は Java / OracleDB を中心としたバックエンド開発を担当しつつ、テックリードとしてチームマネジメントをしています。<br>
 また、要件のヒアリング、要件定義、設計工程などの上流工程から担当しつつ、PMとしてプロジェクトマネジメントをしている案件も持っています。
 
-- 🔭 現在: Java / OracleDB / テックリード / 要件定義 / 設計
+- 🔭 現在: Java / OracleDB / テックリード / 要件定義 / 設計 / PM
 - 📚 過去: Typscript / React / Python / AWS / Docker
 - 🏨 エンジニアになる前: マーケティング / グラフィックデザイン / ドアマン
 - 🌱 学習中: Terraform / GitHub Actions / 生成AI活用 / 英語
@@ -33,7 +33,5 @@
 ### 📌 Featured Project
 
 **[adapt-sheet](https://github.com/EisukeHishikawa/adapt-sheet)**<br>
-AI帳票作成という題材を通じて、CI/CD・AWS・Supabase・生成AI・AI駆動開発(Claude Codeとの協働)の技術キャッチアップを目的に作りました。<br>
-React/TypeScript/Vite + Python/FastAPI、Terraform/AWS(Lambda, API Gateway, CloudFront, S3)、Supabase、GitHub Actions(OIDC)によるフルスタック個人開発。<br>
 本格的AI駆動開発や生成AIの長時間処理に対応した非同期処理設計など実運用に耐えうる設計が特徴です。<br>
 デプロイ: https://d3lal8vccjsy5y.cloudfront.net/
