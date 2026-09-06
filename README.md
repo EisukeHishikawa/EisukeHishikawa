@@ -3,8 +3,9 @@
 現在は Java / OracleDB を中心としたバックエンド開発を担当しつつ、テックリードとしてチームマネジメントをしています。<br>
 業務外では Terraform・GitHub Actions・生成AI活用など、モダンな技術を個人開発でキャッチアップしています。
 
-- 🔭 現在: Java / OracleDB / バックエンド開発 / テックリード業務 / 要件定義 / 設計
-- 🔭 過去: マーケティング / グラフィックデザイン / ドアマン
+- 🔭 現在: Java / OracleDB / テックリード / 要件定義 / 設計/ PM
+- 📚 過去: Typscript / React / Python / AWS
+- 🏨 エンジニアになる前: マーケティング / グラフィックデザイン / ドアマン
 - 🌱 学習中: Terraform / GitHub Actions / 生成AI活用 / 英語
 
 ### 🛠 Tech Stack
