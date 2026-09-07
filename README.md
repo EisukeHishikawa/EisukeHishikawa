@@ -24,7 +24,7 @@
 
 | カテゴリ | 技術 |
 |---|---|
-| バックエンド | Java, Python (FastAPI) |
+| バックエンド | Java, Python (Flask, FastAPI) |
 | フロントエンド | React (TypeScript) |
 | インフラ / クラウド | AWS (Lambda, API Gateway, CloudFront, S3, ECS, Fargate, ECR), Docker, Terraform |
 | DB | OracleDB, MySQL, PostgreSQL (Supabase) |
