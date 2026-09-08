@@ -6,7 +6,7 @@
 - 🔭 現在: Java / OracleDB / テックリード / 要件定義 / 設計 / PM
 - 📚 過去: Typscript / React / Python / AWS / Docker
 - 🏨 エンジニアになる前: マーケティング / グラフィックデザイン / ドアマン
-- 🌱 学習中: Terraform / GitHub Actions / 生成AI活用 / 英語
+- 🌱 学習中: Terraform / GitHub Actions / 生成AI活用 / 英語 / アルゴリズム（競プロ）
 
 ### 🛠 Tech Stack
 
