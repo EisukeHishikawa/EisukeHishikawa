@@ -3,10 +3,12 @@
 現在は Java / OracleDB を中心としたバックエンド開発を担当しつつ、テックリードとしてチームマネジメントをしています。<br>
 別のプロジェクトでは、要件のヒアリング、要件定義、設計工程などの上流工程から担当しつつ、PMとしてプロジェクトマネジメントをしています。
 
-- 🔭 現在: Java / OracleDB / テックリード / 要件定義 / 設計 / PM
-- 📚 過去: Typscript / React / Python / AWS / Docker
+- 🔭 現在: Java / Python / JavaScript / OracleDB / テックリード / チームマネジメント(部下4〜6名) / 要件定義 / 設計 / PM
+- 📚 過去: TypeScript / React / AWS / Docker
 - 🏨 エンジニアになる前: マーケティング / グラフィックデザイン / ドアマン
 - 🌱 学習中: Terraform / GitHub Actions / 生成AI活用 / 英語 / アルゴリズム（競プロ）
+- 📜 認定: AWS認定ソリューションアーキテクト – アソシエイト (SAA, 2025-06)
+
 
 ### 🛠 Tech Stack
 
