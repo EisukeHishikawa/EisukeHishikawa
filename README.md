@@ -34,7 +34,7 @@
 |---|---|
 | フロントエンド | TypeScript, React |
 | バックエンド | Python (FastAPI, Flask), Java |
-| インフラ / クラウド | AWS (ECS, Fargate, ECR, Lambda, API Gateway, CloudFront, S3), Docker, Terraform |
+| インフラ / クラウド | AWS (ECS / Fargate / ECR によるコンテナ実行基盤を中心に、Lambda ほか), Docker, Terraform |
 | DB | MySQL, PostgreSQL (Supabase), OracleDB |
 | CI/CD | GitHub Actions |
 
